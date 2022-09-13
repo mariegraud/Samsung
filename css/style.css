@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+	font-size: 14px;
+}
+header{
+	background-color: transparent;
+	position: relative;
+	width: 100%;
+	padding: 10px 0;
+	border-bottom: 1px solid #eee;
+}
+
+#hero{
+	/*background-image: url("../../prueba1/slide-twin-cooling.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding: 18% 0;*/
+	text-align: left;
+	letter-spacing: -2px;
+
+}
+
+#hero btn{
+	background-color: transparent;
+	color: #000;
+	width: 40px;
+	height: 40px;
+	line-height: 80px;
+	display: block;
+	border-radius: 150%;
+	text-decoration: none;
+	margin: auto;
+	font-size: 30px;
+	transition: all 0.4s ease-in-out;
+	text-transform: uppercase;
+	
+}
+.titulo{
+	font-family: 'Open Sans', serif;
+	color: #000;
+	text-align: center;
+	letter-spacing: -1px;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+
+#products{
+	text-align: center;
+	font-weight: 600px;
+
+}
+
+#footer{
+	background-color: #f2f2f2;
+	padding-bottom: 50px;
+	text-align: center;
+	font-size: 5px;
+	
+}
+
+.btn-sam{
+	background-color: #FFFFFF;
+	border: 2px solid #000;
+	border-radius: 30px;
+	color: #000000;
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	font-size: 13px;
+	font-weight: 1000px;
+	padding: 15px 50px;
+	font-family: 'Open Sans', Serif;
+}
+
+	
+
